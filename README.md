@@ -20,6 +20,8 @@ pip install librosa
 pip install scipy
 pip install matplotlib
 pip install sklearn
+pip install noisereduce
+pip install soundfile
 ```
 
 ## Table of Content
@@ -29,7 +31,7 @@ pip install sklearn
 |Speech_Recognition|[Code](https://github.com/SSusantAchary/Audio-Analysis-with-Python/blob/main/speech_recognition.ipynb)|
 |Mel_Spectograms|[Code](https://github.com/SSusantAchary/Audio-Analysis-with-Python/blob/main/Mel_Spectrograms.ipynb)|
 |Audio_Exploratory_Data_Analysis|[Code](https://github.com/SSusantAchary/Audio-Analysis-with-Python/blob/main/audio_EDA.ipynb)|
-
+|Noise_Reduction|[Code](https://github.com/SSusantAchary/Audio-Analysis-with-Python/blob/main/noise_reduction.ipynb)|
 more coming in..
 ✍️Note: WIP 🚧
 
