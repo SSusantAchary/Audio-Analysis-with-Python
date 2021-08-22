@@ -1,4 +1,6 @@
 # Audio-Analysis-with-Python 🎧
+<img src="https://github.com/SSusantAchary/Audio-Analysis-with-Python/blob/main/misc/sound_wave.png" width="1000">
+
 This is a hands on series for Audio Analysis. Basic audio data consists of sounds and noises.
 Human speech is a special case of that. we will work through various aspects like digitize sound,
 process audio data, convert audio to spectrograms, MFCC, Audio Augmentations, more.
