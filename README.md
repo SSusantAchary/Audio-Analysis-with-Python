@@ -24,6 +24,7 @@ pip install matplotlib
 pip install sklearn
 pip install noisereduce
 pip install soundfile
+pip install albumentations
 ```
 
 ## Table of Content
@@ -34,6 +35,8 @@ pip install soundfile
 |Mel_Spectrograms|[Code](https://github.com/SSusantAchary/Audio-Analysis-with-Python/blob/main/Mel_Spectrograms.ipynb)|
 |Audio_Exploratory_Data_Analysis|[Code](https://github.com/SSusantAchary/Audio-Analysis-with-Python/blob/main/audio_EDA.ipynb)|
 |Noise_Reduction|[Code](https://github.com/SSusantAchary/Audio-Analysis-with-Python/blob/main/noise_reduction.ipynb)|
+|Audio Augmentations|[Code](https://github.com/SSusantAchary/Audio-Analysis-with-Python/blob/main/Augmentation_albumentations.ipynb)|
+
 
 more coming in..
 ✍️Note: WIP 🚧
