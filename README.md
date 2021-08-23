@@ -35,7 +35,7 @@ pip install albumentations
 |Mel_Spectrograms|[Code](https://github.com/SSusantAchary/Audio-Analysis-with-Python/blob/main/Mel_Spectrograms.ipynb)|
 |Audio_Exploratory_Data_Analysis|[Code](https://github.com/SSusantAchary/Audio-Analysis-with-Python/blob/main/audio_EDA.ipynb)|
 |Noise_Reduction|[Code](https://github.com/SSusantAchary/Audio-Analysis-with-Python/blob/main/noise_reduction.ipynb)|
-|Audio Augmentations|[Code](https://github.com/SSusantAchary/Audio-Analysis-with-Python/blob/main/Augmentation_albumentations.ipynb)|
+|Audio Augmentations|[Code](https://github.com/SSusantAchary/Audio-Analysis-with-Python/blob/main/Augementation_albumentations.ipynb)|
 
 
 more coming in..
